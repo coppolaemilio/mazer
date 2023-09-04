@@ -110,8 +110,8 @@ $accordion-button-active-icon-dark:  url("data:image/svg+xml,<svg xmlns='http://
 // scss-docs-end sass-dark-mode-vars
 
 
-$sidebar-bg:                #1e1e2d;
-$sidebar-link-color:        #9899ac;
+$sidebar-bg:                #323b60;
+$sidebar-link-color:        white;
 $sidebar-link-hover-bg:         #282839;
 $sidebar-link-hover-color:      #fff;
 $sidebar-submenu-color:         $sidebar-link-color;
@@ -120,7 +120,7 @@ $sidebar-submenu-hover-color:   $white;
 $card-box-shadow:                   -8px 12px 18px 0 rgba(25,42,70,.13);
 
 // Body
-$body-bg:                   #151521;
+$body-bg:                   #25282b;
 $body-color:                #c2c2d9;
 
 // Pages
@@ -239,8 +239,8 @@ $pagination-active-bg:              #3699FF !default;
 $pagination-active-border-color:    #3699FF !default;
 
 $card-border-color:                 rgba($black, .125);
-$card-bg:                           #1e1e2d;
-$card-cap-bg:                       #1e1e2d;
+$card-bg:                           #393b3d;
+$card-cap-bg:                       #393b3d;
 
 $accordion-color:                         $body-color;
 $accordion-bg:                            transparent;
